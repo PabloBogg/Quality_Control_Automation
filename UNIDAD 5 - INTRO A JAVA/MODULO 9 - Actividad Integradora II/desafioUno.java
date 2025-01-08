@@ -1,3 +1,10 @@
+/* ✏️  Actividad: Conversión de unidades de temperatura
+Escribe un programa que cumpla con las siguientes condiciones:
+
+1. Solicita al usuario ingresar una temperatura y una unidad de medida: Celsius (C) o Fahrenheit (F).
+
+2. Convierte la temperatura a la otra unidad de medida y muestra el resultado en pantalla. */
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
