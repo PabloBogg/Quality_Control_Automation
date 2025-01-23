@@ -13,6 +13,7 @@ import java.util.Scanner;
 // serie de Fibonacci para cualquier posición ingresada por el usuario. Este ejercicio te 
 // ayudará a consolidar tu comprensión sobre cómo generar y trabajar con la serie de Fibonacci.
 //  ¡Anímate a enfrentar este reto y sigue profundizando en tus habilidades de programación!
+
 public class calculoPosicionFibonacci {
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);

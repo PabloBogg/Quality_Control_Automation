@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "prueba",
+            "request": "launch",
+            "mainClass": "prueba",
+            "projectName": "MODULO 16 - Actividad Integradora IV_c901dad3"
+        },
+        {
+            "type": "java",
+            "name": "actividad1",
+            "request": "launch",
+            "mainClass": "actividad1",
+            "projectName": "MODULO 16 - Actividad Integradora IV_c901dad3"
+        },
+        {
+            "type": "java",
+            "name": "dibujandoCuadrados",
+            "request": "launch",
+            "mainClass": "dibujandoCuadrados",
+            "projectName": "MODULO 16 - Actividad Integradora IV_c901dad3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "calculoFactorial",
+            "request": "launch",
+            "mainClass": "calculoFactorial",
+            "projectName": "MODULO 16 - Actividad Integradora IV_c901dad3"
+        },
+        {
+            "type": "java",
+            "name": "calculoPosicionFibonacci",
+            "request": "launch",
+            "mainClass": "calculoPosicionFibonacci",
+            "projectName": "MODULO 16 - Actividad Integradora IV_c901dad3"
+        },
+        {
+            "type": "java",
+            "name": "nnuerosPrimoPlus",
+            "request": "launch",
+            "mainClass": "nnuerosPrimoPlus",
+            "projectName": "MODULO 16 - Actividad Integradora IV_c901dad3"
+        }
+    ]
+}
