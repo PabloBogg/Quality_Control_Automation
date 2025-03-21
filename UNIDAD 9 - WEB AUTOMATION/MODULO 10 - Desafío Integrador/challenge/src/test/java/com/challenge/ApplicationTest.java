@@ -34,6 +34,9 @@ class ApplicationTest {
         
     }
 
+
+
+    //--ETAPA 1--
     @Test
     /*
      * Intenta iniciar sesión sin ingresar el usuario ni la contraseña. Evalúa si es
@@ -96,13 +99,9 @@ class ApplicationTest {
     @Test
     /*
      * Iniciar sesión con el primer usuario.
-     * 
      * Verificar que el inicio de sesión sea exitoso.
-     * 
      * Acceder al menú desplegable y cerrar sesión.
-     * 
      * Verificar que el cierre de sesión haya sido exitoso.
-     * 
      * Repetir la secuencia para todos los usuarios.
      */
     void testLoginLogout() throws InterruptedException {

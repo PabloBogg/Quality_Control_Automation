@@ -12,6 +12,7 @@ public class Driver {
         this.driver = driver;
         PageFactory.initElements(this.driver, this);
         this.driver.get(url);
+        
         this.driver.manage().window().maximize();
 
     }
