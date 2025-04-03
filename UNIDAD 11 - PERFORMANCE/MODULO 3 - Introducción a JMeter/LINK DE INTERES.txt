@@ -1,0 +1,11 @@
+User Manual de JMeter: Una guía completa que cubre todas las características de JMeter. 
+	https://jmeter.apache.org/usermanual/index.html
+
+JMeter Plugins: Una colección de plugins que pueden extender las capacidades de JMeter. 
+	https://jmeter-plugins.org/
+
+Documentación oficial sobre Creación de Planes de Pruebas en JMeter. jsonplaceholder: API falsa para pruebas y prototipado.
+	https://jmeter.apache.org/usermanual/test_plan.html
+
+Recurso de Repaso: Peticiones HTTP y Path en URLs
+	https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview
